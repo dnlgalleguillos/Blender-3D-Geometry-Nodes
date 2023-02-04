@@ -9,10 +9,12 @@ Add-ons: Node Wrangler
 
 All this Geometry Nodes and Shader Nodes are created with Linux Operating System and GNOME Desktop.
 
-Three Shader Nodes featured in the Kinetic Kudu 22.10 edition of the Ubuntu Wallpaper Competition are available
+Three Shader Nodes featured in the **Kinetic Kudu** 22.10 edition of the Ubuntu Wallpaper Competition are available
 
-.- Ubuntu Fosfenos
-.- Ubuntu Kear
-.- Ubuntu Kubex
+| Parameter | Nodes    | Description                |
+| :-------- | :------- | :------------------------- |
+| `Fosfenos`| `Shader Nodes` | `Ubuntu Wallpaper Competition`|
+| `Kear`    | `Shader Nodes` | `Ubuntu Wallpaper Competition`|
+| `Kubex`   | `Shader Nodes` | `Ubuntu Wallpaper Competition`|
 
 Shader Editor Created with Blender 3.5.0 Alpha. -CC BY-SA 4.0
