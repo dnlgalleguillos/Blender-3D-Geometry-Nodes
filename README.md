@@ -9,6 +9,11 @@ Here you will find the Geometry and Shader Nodes created in Blender and released
 
 All this Geometry Nodes and Shader Nodes are created with Linux Operating System and GNOME Desktop.
 
+**Lava Rock Nodes** you can edit:
+
+- Shader Nodes
+- Compositor
+
 Three Shader Nodes featured in the **Kinetic Kudu** 22.10 edition of the Ubuntu Wallpaper Competition are available.
 
 | Parameter | Nodes    | Description                |
