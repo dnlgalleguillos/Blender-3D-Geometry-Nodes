@@ -1,5 +1,5 @@
 # Blender-3D-Geometry-Nodes
-Blender Geometry and Shader Nodes
+### Blender Geometry and Shader Nodes
 
 Here you will find the Geometry and Shader Nodes created in Blender and released for free use.
 
@@ -9,18 +9,18 @@ Here you will find the Geometry and Shader Nodes created in Blender and released
 
 All this Geometry Nodes and Shader Nodes are created with Linux Operating System and GNOME Desktop.
 
-**Lava Rock Blender** you can edit:
+### **Lava Rock Blender** you can edit:
 
 - Shader Nodes
 - Compositor
 
-**Universal Shader** you can edit all **Node Groups** and create new Shaders modifying this Nodes:
+### **Universal Shader** you can edit all **Node Groups** modifying this Nodes:
 
 - Divide
 - Map Range
 - RGB Curves
 
-Three Shader Nodes featured in the **Kinetic Kudu** 22.10 edition of the Ubuntu Wallpaper Competition are available.
+### Three Shader Nodes featured in the **Kinetic Kudu** 22.10 edition of the Ubuntu Wallpaper Competition:
 
 | Parameter | Nodes    | Description                |
 | :-------- | :------- | :------------------------- |
