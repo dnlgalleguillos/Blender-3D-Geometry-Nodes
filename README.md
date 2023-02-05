@@ -14,6 +14,12 @@ All this Geometry Nodes and Shader Nodes are created with Linux Operating System
 - Shader Nodes
 - Compositor
 
+**Universal Shader** you can edit all **Node Groups** and create new Shaders modifying this Nodes:
+
+- Divide
+- Map Range
+- RGB Curves
+
 Three Shader Nodes featured in the **Kinetic Kudu** 22.10 edition of the Ubuntu Wallpaper Competition are available.
 
 | Parameter | Nodes    | Description                |
