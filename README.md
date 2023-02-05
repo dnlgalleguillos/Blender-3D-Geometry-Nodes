@@ -9,7 +9,7 @@ Here you will find the Geometry and Shader Nodes created in Blender and released
 
 All this Geometry Nodes and Shader Nodes are created with Linux Operating System and GNOME Desktop.
 
-**Lava Rock Nodes** you can edit:
+**Lava Rock Blender** you can edit:
 
 - Shader Nodes
 - Compositor
