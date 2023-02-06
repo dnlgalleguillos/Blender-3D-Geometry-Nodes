@@ -1,4 +1,4 @@
-# Blender-3D-Geometry-Nodes
+# Blender-3D-Shader-and-Geometry-Nodes
 ### Blender Geometry and Shader Nodes
 
 Here you will find the Geometry and Shader Nodes created in Blender and released for free use.
