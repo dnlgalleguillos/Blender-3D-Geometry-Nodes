@@ -43,3 +43,9 @@ Blender Material Output
 ```bash
   Ctrl + Shift + Object
 ```
+
+The New Mix Node in Blender for **Mix Color**
+
+```bash
+  Add + Color + Mix Color
+```
