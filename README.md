@@ -29,3 +29,17 @@ All this Geometry Nodes and Shader Nodes are created with Linux Operating System
 | `Kubex`   | `Shader Nodes` | `Ubuntu Wallpaper Competition`|
 
 Shader Editor Created with Blender 3.5.0 Alpha. CC BY-SA 4.0
+
+## Tips
+
+Blender add Texture Coordinate and Mapping
+
+```bash
+  Node + Ctrl + T
+```
+
+Blender Material Output
+
+```bash
+  Ctrl + Shift + Object
+```
