@@ -28,7 +28,7 @@ All this Geometry Nodes and Shader Nodes are created with Linux Operating System
 | `Kear`    | `Shader Nodes` | `Ubuntu Wallpaper Competition`|
 | `Kubex`   | `Shader Nodes` | `Ubuntu Wallpaper Competition`|
 
-Shader Editor Created with Blender 3.5.0 CC BY-SA 4.0
+Shader Editor Created with [Blender](https://www.blender.org/) 3.5.0 CC BY-SA 4.0
 
 ## Blender Tips
 
